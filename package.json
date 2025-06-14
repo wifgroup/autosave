@@ -1,6 +1,7 @@
 {
   "name": "autosave",
   "displayName": "Autosave",
+  "publisher": "wifgroup",
   "description": "Automatically saves all dirty (unsaved) files in your workspace at regular intervals. Perfect for developers who want to avoid losing progress or simply prefer working without manually pressing save.",
   "version": "1.0.0",
   "repository": {
