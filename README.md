@@ -1,8 +1,8 @@
 # 💾 AutoSave – VS Code Extension
 
 
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/abcdev.autosave?color=2A7C76&label=downloads&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=abcdev.autosave)
-[![Version](https://img.shields.io/visual-studio-marketplace/v/abcdev.autosave?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=abcdev.autosave)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/wifgroup.autosave?color=2A7C76&label=downloads&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=wifgroup.autosave)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/wifgroup.autosave?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=wifgroup.autosave)
 
 Automatically saves all dirty (unsaved) files in your workspace at regular intervals.  
 Perfect for developers who want to avoid losing progress or prefer not to manually hit `Ctrl+S`.
